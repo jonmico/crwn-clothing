@@ -70,7 +70,6 @@ const SignUpForm = () => {
           value={displayName}
         />
 
-        <label></label>
         <FormInput
           label="Email"
           type="email"
